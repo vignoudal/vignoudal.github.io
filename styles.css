@@ -31,6 +31,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--extra-light);
   color: black;
+  min-height: 640vh;
 }
 
 nav {
