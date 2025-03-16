@@ -31,7 +31,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--extra-light);
   color: black;
-  min-height: 640vh;
+  min-height: 680vh;
 }
 
 nav {
@@ -162,6 +162,14 @@ ul li a:hover {
   text-align: center;
 }
 
+.about-me-intro {
+  width: 600px;
+  margin: 0 auto; /* The whole paragraph is centered in the page */
+  text-align: center; /*text is centered (ligns don't begin on the left) */
+
+  
+}
+
 .hobby {
   color: var(--text-dark);
   font-weight: 400;
@@ -184,6 +192,9 @@ ul li a:hover {
   width: 50%;
 }
 
+.link {
+  color: var(--primary-color)
+}
 
 
 
