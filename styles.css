@@ -31,7 +31,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--extra-light);
   color: black;
-  min-height: 680vh;
+  min-height: 700vh;
 }
 
 nav {
@@ -89,6 +89,7 @@ ul li a:hover {
 
 
 .section {
+  margin: 1rem;
 }
 
 
@@ -160,6 +161,10 @@ ul li a:hover {
   color: var(--text-dark);
   margin-bottom: 1rem;
   text-align: center;
+}
+
+.education {
+  margin: 1rem;
 }
 
 .about-me-intro {
